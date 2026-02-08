@@ -1,2 +1,9 @@
-# analise-ecommerce-sqlp
-Análise simples de vendas de um e-commerce utilizando SQL, com foco em métricas de negócio.
+## 📌 Objetivo
+Analisar dados de vendas de um e-commerce para entender o faturamento e os produtos mais vendidos.
+
+## 🛠️ Ferramenta
+- SQL
+
+## 📊 Análises realizadas
+- Faturamento total
+- Produtos mais vendidos
